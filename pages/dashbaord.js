@@ -22,7 +22,7 @@ export default function Dashboard() {
         <div className={styles.modalPaperCont}>
           <Paper>
             <form className={styles.form}>
-              <h2> Fill the details of your document</h2>
+              <h2> Fill the details of your document.</h2>
               <TextField
                 id="outlined-basic"
                 label="Document Name"
